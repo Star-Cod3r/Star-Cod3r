@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>I'm Star-Cod3r</b>, a young AI enthusiast from Russia! 🇷🇺<br>
+  <b>I'm Star-Cod3r (Elyzian)</b>, a young AI enthusiast from Russia! 🇷🇺<br>
   My goal is to build safe Artificial General Intelligence (AGI).
 </p>
 
