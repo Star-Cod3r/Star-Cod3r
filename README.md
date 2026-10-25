@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>I'm Star-Cod3r (Elyzian)</b>, a young AI enthusiast from Russia! 🇷🇺<br>
-  My goal is to build safe Artificial General Intelligence (AGI).
+  My goal is to build safe Artificial Intelligence.
 </p>
 
 ---
@@ -33,8 +33,6 @@
 |------|-------------|
 | [**linux**](https://github.com/Star-Cod3r/linux) | Fork of Linux Kernel (torvalds/linux) |
 | [**Mauzer**](https://github.com/Star-Kawasakiva/Mauzer-duo) | Fast open source browser with Gemini Audio |
-| [**safe-agi-concept**](https://github.com/Star-Cod3r/safe-agi-concept) | The concept of Artificial General Intelligence |
-| [**Mauzi-code**](https://github.com/Star-Cod3r/Mauzi-code) | Open Source AI Agent like Claude Code |
 
 ---
 
