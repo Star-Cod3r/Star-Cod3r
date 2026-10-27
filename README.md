@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <b>I'm Star-Cod3r (Elyzian)</b>, a young AI enthusiast from Russia! 🇷🇺<br>
-  My goal is to build safe Artificial Intelligence.
+  <b>I'm Star-Cod3r (Elyzian)</b>, a young AI enthusiast! ❤️<br>
+  My goal is to build safe Artificial Intelligence .
 </p>
 
 ---
 
 ## My Accounts
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/starcod3r) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyzianai) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Star-Cod3r)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/calmresearch-ai)
 
